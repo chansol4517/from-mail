@@ -1,5 +1,5 @@
 emailjs.init({
-	publicKey: "23g8RepczesqKPoIX"
+	publicKey: "4SLku6g_VAZ_ZsxDM"
 });
 
 //form선택자 변수 등록
